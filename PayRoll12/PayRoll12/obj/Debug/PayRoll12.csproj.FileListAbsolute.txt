@@ -1,0 +1,13 @@
+D:\pracpay\PayRoll12\PayRoll12\bin\Debug\PayRoll12.exe
+D:\pracpay\PayRoll12\PayRoll12\bin\Debug\PayRoll12.exe.config
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.csproj.AssemblyReference.cache
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.csproj.SuggestedBindingRedirects.cache
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.Form1.resources
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.MainForm.resources
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.Properties.Resources.resources
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.csproj.GenerateResource.cache
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.csproj.CoreCompileInputs.cache
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.exe
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.pdb
+D:\pracpay\PayRoll12\PayRoll12\obj\Debug\PayRoll12.EmployeeForm.resources
+D:\pracpay\PayRoll12\PayRoll12\bin\Debug\PayRoll12.pdb
